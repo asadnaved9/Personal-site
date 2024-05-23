@@ -1,0 +1,27 @@
+body{
+    background-color: powderblue;
+    margin: 0px;
+    text-align: center;
+ 
+}
+.top-conatiner{
+    position: relative;
+    padding-top: 200px;
+}
+
+h1{
+    margin-top: 0px;
+    color: #074173;
+}
+.top-cloud{
+    position: absolute;
+    top: 70px;
+    right: 300px;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 200px;
+}
+.mountain{
+    margin: 0px;
+}
