@@ -20,8 +20,14 @@ h1{
 }
 .bottom-cloud{
     position: absolute;
-    left: 200px;
+    left: 350px;
 }
 .mountain{
     margin: 0px;
+}
+.middle-container{
+    background-color: beige;
+}
+.bottom-container{
+    background-color: aliceblue;
 }
